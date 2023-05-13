@@ -1,0 +1,31 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+header{
+	height: 200px;
+	background-color: #8ec3e0;
+
+}
+#menu{
+	width: 30%;
+	height: 700px;
+	background-color: #ee5d6c;
+	float: left;
+}
+#content{
+	height: 700px;
+	width: 70%;
+	background-color: #fffb6d;
+	float: left;
+}
+footer{
+	height: 100px;
+	clear: both;
+}
+button{
+	background-color: #8ec3e0;
+	border-color: #f5f5f5;
+	size: 30px;
+
+}
